@@ -8,3 +8,5 @@
     * `HW1`: OpenMP & Pthread 
     * `Lab2`: MPI
     * `HW2`: MPI with OpenMP(& Pthread)
+    * `HW4`: Bitcoin Miner
+    * `HW5`: N-Body simulation
