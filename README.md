@@ -10,3 +10,5 @@
     * `HW2`: MPI with OpenMP(& Pthread)
     * `HW4`: Bitcoin Miner
     * `HW5`: N-Body simulation
+
+> could refer to each homework or lab's `report.pdf` to gain more insight
